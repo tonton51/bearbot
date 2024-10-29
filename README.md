@@ -1,4 +1,4 @@
-**・スクリプト**  
+**・ソースコード**  
 [Assets（未整理）](https://github.com/tonton51/bearbot/tree/main/Assets)  
 **・プレイ動画**  
 [Bearbot_紹介動画](https://youtu.be/I08Pqr87YEE)  
